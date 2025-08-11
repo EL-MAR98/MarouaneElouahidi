@@ -24,13 +24,6 @@
 
 ---
 
-## 📌 Featured Projects
-- **[Automated Bread Classification System](#)** – Computer vision with YOLO, PyTorch & OpenCV for real-time quality control.  
-- **[BPM Workflow Automation](#)** – JobRouter workflows improving process efficiency and traceability.  
-- **[Big Data Pipeline](#)** – ETL with PySpark and Kafka for scalable data processing.
-
----
-
 ## 📫 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/marouane-elouahidi)  
 📧 marouane.elouahidi@gmail.com
